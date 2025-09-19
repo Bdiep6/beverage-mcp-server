@@ -54,7 +54,7 @@ public class BeverageClient
 }
 
 // Usage Example
-public class Program
+public class ExampleProgram
 {
     public static async Task Main(string[] args)
     {

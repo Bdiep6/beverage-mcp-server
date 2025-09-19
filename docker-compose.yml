@@ -10,7 +10,6 @@ services:
       - MCP_HTTP_MODE=true
     restart: unless-stopped
     container_name: beverage-mcp-server
-    
   # Alternative: Use pre-built image from GitHub Container Registry
   # beverage-mcp-server:
   #   image: ghcr.io/bdiep6/beverage-mcp-server:latest
