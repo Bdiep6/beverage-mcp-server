@@ -1,0 +1,14 @@
+{
+	"servers": {
+		"beverage-mcp-server": {
+			"type": "stdio",
+			"command": "dotnet",
+			"args": [
+				"run",
+				"--project",
+				"C:\\Users\\brian\\Courses\\Term-4\\COMP-4976-Web-App-Dev(MS)\\Labs\\Lab-2\\McpBeverages\\BeverageMcpServer\\BeverageMcpServer.csproj"
+			]
+		}
+	},
+	"inputs": []
+}
